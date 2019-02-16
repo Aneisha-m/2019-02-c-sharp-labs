@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\ConsoleApp1\obj\Debug\lab_09_xml.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\ConsoleApp1\obj\Debug\lab_09_xml.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

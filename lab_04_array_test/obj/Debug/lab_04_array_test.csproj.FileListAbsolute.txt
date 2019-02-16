@@ -1,0 +1,16 @@
+C:\labs\lab_04_array_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\labs\lab_04_array_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\labs\lab_04_array_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\labs\lab_04_array_test\bin\Debug\lab_04_array_test.dll
+C:\labs\lab_04_array_test\bin\Debug\lab_04_array_test.pdb
+C:\labs\lab_04_array_test\bin\Debug\lab_04_array.dll
+C:\labs\lab_04_array_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\labs\lab_04_array_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\labs\lab_04_array_test\bin\Debug\lab_04_array.pdb
+C:\labs\lab_04_array_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\labs\lab_04_array_test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\labs\lab_04_array_test\obj\Debug\lab_04_array_test.csprojAssemblyReference.cache
+C:\labs\lab_04_array_test\obj\Debug\lab_04_array_test.csproj.CoreCompileInputs.cache
+C:\labs\lab_04_array_test\obj\Debug\lab_04_array_test.csproj.CopyComplete
+C:\labs\lab_04_array_test\obj\Debug\lab_04_array_test.dll
+C:\labs\lab_04_array_test\obj\Debug\lab_04_array_test.pdb

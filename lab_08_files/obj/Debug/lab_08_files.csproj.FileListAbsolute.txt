@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\lab_06_wpf\lab_08_files\bin\Debug\lab_08_files.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\lab_06_wpf\lab_08_files\bin\Debug\lab_08_files.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\lab_06_wpf\lab_08_files\bin\Debug\lab_08_files.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\lab_06_wpf\lab_08_files\obj\Debug\lab_08_files.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\lab_06_wpf\lab_08_files\obj\Debug\lab_08_files.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\lab_06_wpf\lab_08_files\obj\Debug\lab_08_files.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\source\repos\lab_06_wpf\lab_08_files\obj\Debug\lab_08_files.pdb

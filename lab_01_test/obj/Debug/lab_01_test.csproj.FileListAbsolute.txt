@@ -1,0 +1,7 @@
+C:\labs\lab_01_test\bin\Debug\lab_01_test.exe.config
+C:\labs\lab_01_test\bin\Debug\lab_01_test.exe
+C:\labs\lab_01_test\bin\Debug\lab_01_test.pdb
+C:\labs\lab_01_test\obj\Debug\lab_01_test.csprojAssemblyReference.cache
+C:\labs\lab_01_test\obj\Debug\lab_01_test.csproj.CoreCompileInputs.cache
+C:\labs\lab_01_test\obj\Debug\lab_01_test.exe
+C:\labs\lab_01_test\obj\Debug\lab_01_test.pdb

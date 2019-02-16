@@ -1,0 +1,12 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\obj\Debug\lab_10_entity_Program.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\obj\Debug\lab_10_entity_Program.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\bin\Debug\lab_10.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\bin\Debug\lab_10.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\bin\Debug\lab_10.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\bin\Debug\EntityFramework.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\bin\Debug\EntityFramework.xml
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\obj\Debug\lab_10_entity_Program.csproj.CopyComplete
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\obj\Debug\lab_10.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_10\obj\Debug\lab_10.pdb

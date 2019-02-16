@@ -1,0 +1,7 @@
+C:\labs\lab_03_OOP\obj\Debug\lab_03_OOP.csprojAssemblyReference.cache
+C:\labs\lab_03_OOP\obj\Debug\lab_03_OOP.csproj.CoreCompileInputs.cache
+C:\labs\lab_03_OOP\bin\Debug\lab_03_OOP.exe.config
+C:\labs\lab_03_OOP\bin\Debug\lab_03_OOP.exe
+C:\labs\lab_03_OOP\bin\Debug\lab_03_OOP.pdb
+C:\labs\lab_03_OOP\obj\Debug\lab_03_OOP.exe
+C:\labs\lab_03_OOP\obj\Debug\lab_03_OOP.pdb

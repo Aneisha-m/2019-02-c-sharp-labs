@@ -1,0 +1,6 @@
+C:\labs\lab_04_array\bin\Debug\lab_04_array.dll
+C:\labs\lab_04_array\bin\Debug\lab_04_array.pdb
+C:\labs\lab_04_array\obj\Debug\lab_04_array.csprojAssemblyReference.cache
+C:\labs\lab_04_array\obj\Debug\lab_04_array.csproj.CoreCompileInputs.cache
+C:\labs\lab_04_array\obj\Debug\lab_04_array.dll
+C:\labs\lab_04_array\obj\Debug\lab_04_array.pdb

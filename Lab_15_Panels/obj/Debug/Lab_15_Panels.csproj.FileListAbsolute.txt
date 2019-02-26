@@ -1,3 +1,15 @@
 C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.csprojAssemblyReference.cache
 C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\App.g.cs
 C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels_MarkupCompile.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\bin\Debug\Lab_15_Panels.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\bin\Debug\Lab_15_Panels.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\bin\Debug\Lab_15_Panels.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\MainWindow.g.cs
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels_MarkupCompile.lref
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\MainWindow.baml
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.g.resources
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.Properties.Resources.resources
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.csproj.GenerateResource.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.pdb

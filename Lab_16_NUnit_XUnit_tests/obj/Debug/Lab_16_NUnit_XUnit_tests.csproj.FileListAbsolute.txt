@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_16_NUnit_XUnit_tests\obj\Debug\Lab_16_NUnit_XUnit_tests.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_16_NUnit_XUnit_tests\obj\Debug\Lab_16_NUnit_XUnit_tests.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_16_NUnit_XUnit_tests\bin\Debug\Lab_16_NUnit_XUnit_tests.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_16_NUnit_XUnit_tests\bin\Debug\Lab_16_NUnit_XUnit_tests.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_16_NUnit_XUnit_tests\bin\Debug\Lab_16_NUnit_XUnit_tests.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_16_NUnit_XUnit_tests\obj\Debug\Lab_16_NUnit_XUnit_tests.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_16_NUnit_XUnit_tests\obj\Debug\Lab_16_NUnit_XUnit_tests.pdb

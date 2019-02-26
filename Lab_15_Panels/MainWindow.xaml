@@ -5,8 +5,43 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Lab_15_Panels"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="Auto" Width="Auto" Background="#f14">
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Button x:Name="ButtonPanel" Background="Aqua" Grid.Row="4" Content="Change Panel" Click="ButtonChangePanel_Click"/>
+        <Button x:Name="ButtonChangeTab" Background="Aqua" Grid.Row="3" Content="Change Panel By Index" Click="ButtonChangePanel_Click"/>
+        <Button x:Name="ButtonChangeTabByName" Background="Aqua" Grid.Row="4" Content="Change Panel By Name" Click="ButtonChangePanel_Click"/>
+        <StackPanel x:Name="StackPanel101" Background="fff" Grid.Row="1" Grid.Column="1"/>
+        <StackPanel x:Name="StackPanel102" Background="AliceBlue" Grid.Row="1" Grid.Column="1"/>
+        <StackPanel x:Name="StackPanel103" Background="Azure" Grid.Row="1" Grid.Column="1"/>
+        <TabControl x::Name="TabPanel101" background="#777" Grid.Row="3" Grid.Column="1" grid.RowSpan="2">
+            <TabItem x:Name="first" Background="BlanchedAlmond">
+                <TabItem.Header>
+                <Label x:Name="label101" Content="first"/>
+                </TabItem.Header>
+            </TabItem>
+            <TabItem x:Name="second" Background="Crimson">
+                <TabItem.Header>
+                <Label x:Name="label101" Content="first"/>
+                </TabItem.Header>
+            </TabItem>
+            <TabItem x:Name="third" Background="Black">
+                <TabItem.Header>
+                <Label x:Name="label101" Content="first"/>
+                </TabItem.Header>
+            </TabItem>
+        </TabControl>
     </Grid>
 </Window>

@@ -1,0 +1,3 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\App.g.cs
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_15_Panels\obj\Debug\Lab_15_Panels_MarkupCompile.cache

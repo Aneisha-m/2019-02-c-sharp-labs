@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_19_streaming\bin\Debug\lab_19_streaming.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_19_streaming\bin\Debug\lab_19_streaming.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_19_streaming\bin\Debug\lab_19_streaming.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_19_streaming\obj\Debug\lab_19_streaming.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_19_streaming\obj\Debug\lab_19_streaming.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_19_streaming\obj\Debug\lab_19_streaming.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_19_streaming\obj\Debug\lab_19_streaming.pdb

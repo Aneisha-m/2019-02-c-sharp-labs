@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_20_streamwriter\bin\Debug\lab_20_streamwriter.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_20_streamwriter\bin\Debug\lab_20_streamwriter.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_20_streamwriter\bin\Debug\lab_20_streamwriter.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_20_streamwriter\obj\Debug\lab_20_streamwriter.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_20_streamwriter\obj\Debug\lab_20_streamwriter.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_20_streamwriter\obj\Debug\lab_20_streamwriter.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_20_streamwriter\obj\Debug\lab_20_streamwriter.pdb

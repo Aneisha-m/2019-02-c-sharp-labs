@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_21_push_data_to_memory\bin\Debug\lab_21_push_data_to_memory.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_21_push_data_to_memory\bin\Debug\lab_21_push_data_to_memory.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_21_push_data_to_memory\bin\Debug\lab_21_push_data_to_memory.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_21_push_data_to_memory\obj\Debug\lab_21_push_data_to_memory.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_21_push_data_to_memory\obj\Debug\lab_21_push_data_to_memory.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_21_push_data_to_memory\obj\Debug\lab_21_push_data_to_memory.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_21_push_data_to_memory\obj\Debug\lab_21_push_data_to_memory.pdb

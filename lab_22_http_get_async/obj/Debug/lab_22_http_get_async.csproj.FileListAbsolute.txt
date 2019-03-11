@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_22_http_get_async\bin\Debug\lab_22_http_get_async.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_22_http_get_async\bin\Debug\lab_22_http_get_async.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_22_http_get_async\bin\Debug\lab_22_http_get_async.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_22_http_get_async\obj\Debug\lab_22_http_get_async.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_22_http_get_async\obj\Debug\lab_22_http_get_async.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_22_http_get_async\obj\Debug\lab_22_http_get_async.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\lab_22_http_get_async\obj\Debug\lab_22_http_get_async.pdb

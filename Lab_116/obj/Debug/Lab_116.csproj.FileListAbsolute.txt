@@ -1,0 +1,7 @@
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_116\bin\Debug\Lab_116.exe.config
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_116\bin\Debug\Lab_116.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_116\bin\Debug\Lab_116.pdb
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_116\obj\Debug\Lab_116.csprojAssemblyReference.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_116\obj\Debug\Lab_116.csproj.CoreCompileInputs.cache
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_116\obj\Debug\Lab_116.exe
+C:\Users\tech-w101.LAPTOP-L2EC9EQP\Desktop\Labs Main\Lab_116\obj\Debug\Lab_116.pdb
